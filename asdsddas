@@ -1,0 +1,3 @@
+UserName = "OukiNotFound"
+
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
